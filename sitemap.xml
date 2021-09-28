@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tolquien.com/articles/</loc>
     <lastmod>2021-01-19T23:30:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tolquien.com/</loc>
     <lastmod>2021-01-19T23:30:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tolquien.com/articles/tu-dices-alda/</loc>
     <lastmod>2021-01-19T23:30:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tolquien.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tolquien.com/tags/</loc>
   </url>
-  
 </urlset>
